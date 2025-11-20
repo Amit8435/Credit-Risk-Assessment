@@ -1,2 +1,2 @@
-# kyphosis-Desiese-Predictor
-Kyphosis is an abnormal upper spine curvature causing a rounded posture. Types include postural, Scheuermann's, congenital, and age-related. Treatment varies based on severity. Also, the repository consists of an ML project predicting disease probability using age and operated vertebrae operated in early age.
+# Credit Risk Assessment
+A comprehensive machine learning solution for predicting credit default risk, achieving 88% F1 score and 82% recall through advanced preprocessing and ensemble modeling techniques.
